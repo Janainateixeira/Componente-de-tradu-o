@@ -21,7 +21,7 @@ export default class App extends React.Component {
         onChangeText={(text) => this.setState({ text })}
         />
         <Text style={{ padding: 10, fontSize: 40 }}>
-          {this.state.text}
+          {this.state.text.split(' ').map((word) => word && `${word}🤖`).join('')}
         </Text>
       </View>
     );
