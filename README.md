@@ -1,6 +1,6 @@
-# Componente-de-traducao
+# Componente de tradução
 
-Aprendendo cada dia mais um pouquinho sobre as ferramentas do React Native.
+Aprendendo cada dia mais sobre as ferramentas do React Native.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
