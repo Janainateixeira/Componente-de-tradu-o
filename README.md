@@ -10,7 +10,7 @@ Aprendendo cada dia mais sobre as ferramentas do React Native.
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](C:\Projetos\Componente-de-traducao\assets\print.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
 
